@@ -129,8 +129,8 @@ h4 {
 }
 
 .card .details h3 {
-    font-size: 2px;
+    font-size: 4px;
     line-height: 0px;
-    transform: rotate(-5deg);
-    color: #7F807D
+    transform: rotate(-1deg);
+    color: #A0A0A0
 }
