@@ -120,6 +120,12 @@ h4 {
     padding: 0 0 0 20px;
 }
 
+.card .details h3 {
+    font-size: 4px;
+    line-height: 0px;
+    transform: rotate(-10deg);
+}
+
 .card .details h4 {
     text-align: center;
 }
