@@ -110,11 +110,11 @@ h4 {
     box-sizing: border-box;
     padding: 0 0 0 7px;
     z-index: -1;
-    margin-top: 40px;
+    margin-top: 32px;
 }
 
 .card .details p {
-    font-size: 15px;
+    font-size: 14px;
     line-height: 5px;
     transform: rotate(-10deg);
     padding: 0 0 0 20px;
