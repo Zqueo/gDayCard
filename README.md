@@ -1,3 +1,2 @@
-# gDayCard
-[Bday Card
-](https://zqueo.github.io/gDayCard/)
+# Birthday Card
+[Bday Card](https://zqueo.github.io/gDayCard/)
