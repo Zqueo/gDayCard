@@ -47,7 +47,7 @@ h4 {
     position: absolute;
     top: -5px;
     left: 0;
-    width: 100%;
+    width: 0%; /*Antes era 100%*/
     height: 5px;
     background: #BAC1BA;
     transform-origin: bottom;
@@ -60,7 +60,7 @@ h4 {
     top: 0;
     right: -5px;
     width: 5px;
-    height: 100%;
+    height: 0%; /*Antes era 100%*/
     background: #92A29C;
     transform-origin: left;
     transform: skewY(-45deg);
