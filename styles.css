@@ -111,7 +111,7 @@ h4 {
     box-sizing: border-box;
     padding: 0 0 0 7px;
     z-index: -1;
-    margin-top: 25px;
+    margin-top: 24px;
 }
 
 .card .details p {
@@ -130,7 +130,7 @@ h4 {
 }
 
 .card .details h3 {
-    font-size: 5px;
+    font-size: 7px;
     line-height: 0px;
     transform: rotate(0deg);
     color: #808080
